@@ -1,0 +1,1 @@
+It is use to create variable in components.
